@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <ModeToggle/>
 
-      <div className="text-5xl text-red-500">Anika Tabassum</div>
+      <div className="text-5xl ">Anika Tabassum</div>
     </div>
   );
 }
