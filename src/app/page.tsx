@@ -8,6 +8,7 @@ export default function Home() {
 
       <div className="text-5xl">Anika Tabassum</div>
       <div>How do you recover very soon?</div>
+      <div>Learning Basic</div>
     </div>
   );
 }
